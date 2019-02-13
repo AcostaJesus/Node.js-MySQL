@@ -1,0 +1,25 @@
+{
+  "name": "node.js-mysql",
+  "version": "1.0.0",
+  "description": "Homework",
+  "main": "bamazoncustomer.js",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "node-modules": "^1.0.1",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\ && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcostaJesus/Node.js-MySQL.git"
+  },
+  "author": "Jesus Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcostaJesus/Node.js-MySQL/issues"
+  },
+  "homepage": "https://github.com/AcostaJesus/Node.js-MySQL#readme"
+}
