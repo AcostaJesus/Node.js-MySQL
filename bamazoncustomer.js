@@ -5,8 +5,9 @@ const prompt = require("prompt");
 var connection = mysql.createConnection({
     host: "localhost",
     user : "root",
-    password : "John316",
-    database : "Bamazon"
+    password : "root",
+    port : 3306,
+    database : "bamazon"
 });
 
 // Connecting to Database
