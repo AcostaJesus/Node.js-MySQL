@@ -4,6 +4,7 @@
   "description": "Homework",
   "main": "bamazoncustomer.js",
   "dependencies": {
+    "inquirer": "^6.2.2",
     "mysql": "^2.16.0",
     "node-modules": "^1.0.1",
     "prompt": "^1.0.0"
